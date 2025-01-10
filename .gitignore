@@ -41,7 +41,62 @@ ipch/
 # files ending in .cache can be ignored
 *.[Cc]ache
 
+# Visual Studio IntelliCode
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
 # Others
 *.tmp
 *.temp
 *.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.ilk
+*.meta
+*.iobj
+*.ipdb
+*.idb
+*.pdb
+Browse.VC.db
+Browse.VC.opendb
